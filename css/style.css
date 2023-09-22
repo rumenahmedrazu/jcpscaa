@@ -481,7 +481,7 @@ img {
 .mainmenu ul li >a{
     margin: 0 auto;
     position: relative;
-    padding: 26px 14px;
+    padding: 5px 5px;
     color: #666;
     font-weight:500;
     display: block;
