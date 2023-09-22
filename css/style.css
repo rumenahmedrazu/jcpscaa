@@ -1,12 +1,4 @@
 
-
-/*
-  Theme Name: Marktoo NFT Marketplace Template
-  Author: ThemexHunter
-  Description: NFT Non Fungible Token Marketplace Template
-  Version: 1.0
-*/
-
 /* CSS Index
 -----------------------------------
 1. Theme default css
@@ -19,28 +11,6 @@
 8. Client-section
 9. blog-section
 10. contact-section
-*/
-
-/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
-/*7
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
-
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
-
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -63,12 +33,6 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
