@@ -459,7 +459,7 @@ img {
 	background:#fff;
 }
 .logo {
-    margin-top: 25px;
+    margin: 5px;
 }
 .logo_text h3{
     color: #fff;
@@ -695,7 +695,6 @@ img {
 	width: 54px;
 	height: 54px;
 	border-radius: 5px;
-	background: #f7f7f7;
 }
 #menuToggle input {
 	display: flex;
@@ -714,7 +713,7 @@ img {
 	height: 2px;
 	margin-bottom: 5px;
 	position: relative;
-	background: #2f2f2f;
+	background: #fff;
 	border-radius: 3px;
 	z-index: 1;
 	transform-origin: 5px 0;
