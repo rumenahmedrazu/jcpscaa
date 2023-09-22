@@ -460,6 +460,7 @@ img {
 }
 .logo {
     margin: 5px;
+padding: 5px 0;
 }
 .logo_text h3{
     color: #fff;
@@ -481,7 +482,7 @@ img {
 .mainmenu ul li >a{
     margin: 0 auto;
     position: relative;
-    padding: 5px 5px;
+    padding: 26px 14px;
     color: #666;
     font-weight:500;
     display: block;
